@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GPSharp")]
 [assembly: AssemblyDescription("The first absolute understandable wrapper for Italian Green Pass, made by ZygoteCode.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ZioEren")]
+[assembly: AssemblyCompany("ZygoteCode")]
 [assembly: AssemblyProduct("GPSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2025, ZygoteCode. All rights reserved.")]
 [assembly: AssemblyTrademark("Copyright ©  2025, ZygoteCode. All rights reserved.")]
