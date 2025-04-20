@@ -1,0 +1,4 @@
+﻿public enum VaccineBrand
+{ 
+    PFIZER, MODERNA, ASTRAZENECA, JOHNSON_AND_JOHNSON, NOVAVAX, UNKNOWN
+}
